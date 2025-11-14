@@ -1,6 +1,4 @@
 # PROJECT_NAME
-Demo project for Math-IT students
-# PROJECT_NAME
 
 Mô tả: Đây là project mẫu cho sinh viên Toán–Tin. Chứa ví dụ Python, phân tích dữ liệu và notebook.
 
